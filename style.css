@@ -1,0 +1,45 @@
+.full{
+    background-color: black;
+}
+.head{
+list-style-type: none;
+color: white;
+font-weight: bold; 
+display: inline-flex;
+gap: 50px;
+margin-top: 20px;
+justify-content: center;
+margin-left: 350px
+  }
+  .navbar1{
+     font-weight: bolder;
+     color: white;
+  }
+  .navbar-brand {
+color: white;
+margin-left: 200px;
+
+  }
+  .nav-link{
+    color: white;
+ gap: 20%;
+}
+.logo{
+    margin-top: -70px;
+}
+.navbar-brand:hover{
+    color: red;
+    box-sizing: border-box;
+    text-transform: uppercase;
+   
+}
+.navbar1 :hover{
+    color: red;
+    border: 20px;
+    text-transform: uppercase;
+}
+ .h1{
+    margin-top: -90px;
+ } 
+
+ 
